@@ -11,6 +11,11 @@
 * 感谢 **hwdq0012** 对本软件的测试
 * 感谢 **вｌāńｋ** 对本软件的测试
 
+
+## 特别说明
+此项目是针对 HslCommunication.dll 的v4.3.2版本创建的，此项目不再更新维护，此项目之后的版本支持更加丰富的数据交互，源代码移动到了HslCommunication源代码中，地址如下：
+[https://github.com/dathlin/HslCommunication](https://github.com/dathlin/HslCommunication)
+
 ## 首页
 ![载入窗口](https://github.com/dathlin/HslCommunicationDemo/blob/master/imgs/4.png?raw=true)
 
